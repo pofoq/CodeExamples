@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace CodeExamplesConsole
 {
@@ -9,9 +10,6 @@ namespace CodeExamplesConsole
             Console.WriteLine("Start a program!");
             Console.WriteLine();
 
-            //AspNetCoreWebApp.lesson1.example1.Start();
-            //AspNetCoreWebApp.lesson1.example2.Start();
-            AspNetCoreWebApp.lesson1.example3.Start();
 
             Console.WriteLine();
             Console.WriteLine("End of program!");
